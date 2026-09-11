@@ -1,0 +1,16 @@
+# Breast Cancer Explainable ML
+# Recommended Python version: 3.11
+
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.11.4
+matplotlib==3.7.5
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3
+pycaret==3.3.2
+shap==0.46.0
+xgboost==2.1.1
+lightgbm==4.5.0
+catboost==1.2.7
+ipython==8.27.0
+ipykernel==6.29.5
