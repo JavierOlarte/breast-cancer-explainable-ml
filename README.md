@@ -117,7 +117,7 @@ For this problem, Recall for the malignant class is particularly important becau
 
 The candidate models were compared using cross-validation performance before selecting and tuning the final estimator.
 
-![Model Comparison](results/model_comparison.png)
+![Model Comparison](results/model_comparison_ml1.png)
 
 ---
 
